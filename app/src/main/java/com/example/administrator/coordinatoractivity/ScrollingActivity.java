@@ -37,6 +37,7 @@ public class ScrollingActivity extends AppCompatActivity {
                   /*  player_btn_back.setBackground(ScrollingActivity.this.getResources().getDrawable(R.color.colorAccent));
                     player_btn_share.setBackground(ScrollingActivity.this.getResources().getDrawable(R.color.colorAccent));*/
                 } else {
+                    //这个是我切换的本地的dev分支
                   /*  player_btn_back.setBackground(ScrollingActivity.this.getResources().getDrawable(R.color.colorPrimaryDark));
                     player_btn_share.setBackground(ScrollingActivity.this.getResources().getDrawable(R.color.colorPrimaryDark));*/
                 }
